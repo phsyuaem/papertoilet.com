@@ -16,7 +16,7 @@ Config.perspectiveFactor = .92;
 Config.perspectiveOffsetX = -222;
 Config.perspectiveOffsetY = -45;
 
-Config.cookieEnabled = false; //state of roll will be remembered on exit
+// Config.cookieEnabled = false; //state of roll will be remembered on exit
 
 Config.trail = 250; //initial length of trailing paper
 Config.trailMin = 225;
