@@ -40,3 +40,9 @@ Config.maxSpeed = 50; //zowel voor normaal als terug zwiepen
 Config.gravity = 1.1; //voor vallen van laatste velletjes
 
 Config.doubleClickInterval = 350; //voor terug naar volle rol bij lege rol
+
+// Clear local storage on page load
+localStorage.clear();
+
+// Clear session storage on page load
+sessionStorage.clear();
